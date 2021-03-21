@@ -1,6 +1,7 @@
 <h1 align="center">Rick's GitHub Repos 💻</h1>
 
-<h3 align="center">A technologies's student. 👓 <br> Mainly C++, C, Python and Web-Front-End (Html+Css).</h3>
+<h3 align="center">A technologies's student. 👓 <br> 
+Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
 
 ---
 
@@ -8,16 +9,13 @@
 
 - 💻 All of my projects are available at [Github](https://github.com/RickBarretto)
 
-## 📮 Contact me:
+
+## - 📮 Contact me:
 
 [![Protonmaill](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](pdant.mailme@protonmail.ch)
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](codepen) -->
-
-<!-- <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tddhgd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fdgr" height="30" width="40" /></a>
-</p> -->
 
 <p
   style="display: flex;">
@@ -35,7 +33,7 @@
   /></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## - 🛠️ Languages and Tools:
 <p align="center" style="display:flex;flex-flow:row wrap; align-content:center;">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
