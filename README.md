@@ -52,7 +52,7 @@ Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/RickBarretto/Quotes/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/RickBarretto/blob/main/Quotes/quotes.json)
 
 
 
