@@ -1,7 +1,7 @@
 <img src="Readme-Assets/header.gif" style="width:100%;" />
 
-<h2 align="center">A technologies's student. 👓 </h2> 
-<h3 align="center">Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
+<h2 align="center">A technologies's student. 👓 <br> 
+Mainly: C++, C, Python and Web-Front-End (Html+Css).</h2>
 
 - 📚 I’m currently learning **C, C++**
 
