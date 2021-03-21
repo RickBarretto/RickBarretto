@@ -13,7 +13,7 @@
 </p> -->
 
 <p
-  style="display: grid; grid-template-columns: 1fr;">&nbsp;
+  style="display: flex; flex-direction: column;">
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
