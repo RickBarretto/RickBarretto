@@ -3,8 +3,6 @@
 <h3 align="center">A technologies's student. 👓 <br> 
 Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
 
----
-
 - 📚 I’m currently learning **C, C++**
 
 - 💻 All of my projects are available at [Github](https://github.com/RickBarretto)
@@ -17,6 +15,7 @@ Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](codepen) -->
 
+## - 📮 My Stats:
 <p
   style="display: flex;">
 <img
@@ -49,8 +48,11 @@ Mainly: C++, C, Python and Web-Front-End (Html+Css).</h3>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
 </p>
+
+---
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/github-readme-quotes/blob/main/customQuotes/quotes.json)
+
 
 
