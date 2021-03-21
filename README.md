@@ -1,7 +1,7 @@
 <img src="Readme-Assets/header.gif" style="width:100%;" />
 
 <h2 align="center">A technologies's student. 👓 <br> 
-Mainly: C++, C, Python and Web-Front-End (Html+Css).</h2>
+🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
 
 - 📚 I’m currently learning **C, C++**
 
@@ -15,7 +15,7 @@ Mainly: C++, C, Python and Web-Front-End (Html+Css).</h2>
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](codepen) -->
 
-## - 📮 My Stats:
+## - 🌠 My Stats:
 <p
   style="display: flex;">
 <img
