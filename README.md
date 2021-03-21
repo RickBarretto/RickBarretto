@@ -12,9 +12,10 @@
 <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fdgr" height="30" width="40" /></a>
 </p> -->
 
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickBarretto&count_private=true&show_icons=true&theme=gotham)](https://github.com/RickBarretto)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true" alt="rickbarretto" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickBarretto&layout=compact&theme=gotham)](https://github.com/RickBarretto)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickbarretto&show_icons=true&theme=gotham&locale=en&layout=compact" alt="rickbarretto" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
