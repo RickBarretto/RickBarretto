@@ -13,18 +13,18 @@
 </p> -->
 
 <p
-  style="display: grid; grid-template-columns: 1fr 1fr;">&nbsp;
+  style="display: grid; grid-template-columns: 1fr;">&nbsp;
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
   alt="rickbarretto" 
-  style="justify-self: stretch; width: 100%;"
+  style="justify-self: center; width: 100%"
 />
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=rickbarretto&show_icons=true&theme=gotham&locale=en&layout=compact" 
   alt="rickbarretto" 
-  style="justify-self: stretch; width: 100%;"
+  style="justify-self: center; width: 100%"
   /></p>
 
 
