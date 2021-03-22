@@ -10,5 +10,9 @@
     {
         "quote":"In real open source, you have the right to control your own destiny.",
         "author":"Linus Torvalds"
+    },
+    {
+        "quote":"Premature optimization is the root of all evil.",
+        "author":"Donald Knuth"
     }
 ]
