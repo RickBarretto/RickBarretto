@@ -51,7 +51,6 @@
 </p>
 
 ---
-
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/RickBarretto/blob/main/Quotes/quotes.json)
 
 
