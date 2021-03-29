@@ -1,0 +1,7 @@
+*.[oa]
+*~
+*.txt
+*log
+*.tmp
+*.pptx
+test/*
