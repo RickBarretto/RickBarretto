@@ -1,0 +1,164 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+				@keyframes write {
+					0% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+
+                @keyframes invisible {
+					0% {
+						opacity: 1;
+					}
+					100% {
+						opacity: 0;
+					}
+				}
+
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+                .svg {
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+				}
+				.container {
+					font-family: "Ubuntu Mono", monospace;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 780px;
+					height: 200px;
+					background: linear-gradient(230deg, #1916d9, #a80000);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px 50px 150px 50px;
+					color: white;
+					text-align: center;
+                    perspective: 100em;
+                    box-shadow: 0 3rem 10rem black;
+				}
+				h1 {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #c1c1c1,
+						0 2px 0 #c1c1c1,
+						0 3px 0 #c1c1c1,
+						0 4px 0 #c1c1c1,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+                    transform: rotateX(30deg);
+				}
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #c1c1c1;
+					animation: 5s ease 0s normal forwards 1 fadeIn;
+                    transform: rotateX(30deg) translateZ(100px);
+				}
+                span {
+                    height: 5px;
+                    width: 300px;
+                    background-color: white;
+                    box-shadow:
+						0 1px 0 #c1c1c1,
+						0 2px 0 #c1c1c1,
+						0 3px 0 #c1c1c1,
+						0 4px 0 #c1c1c1,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+                    animation: 5s ease 0s normal forwards 1 fadeIn,
+                    write .3s linear 5.8s normal forwards,
+                    write .3s linear 8.8s normal forwards;
+                    transform: translateZ(-500px) rotateX(30deg);
+                }
+
+                h1 b:nth-child(1) {opacity: 0; animation: write .3s linear 2s   normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 6s   normal forwards,
+                write .3s linear 9s   normal forwards;}
+                h1 b:nth-child(2) {opacity: 0; animation: write .3s linear 2.2s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 6.2s   normal forwards,
+                write .3s linear 9.2s   normal forwards;}
+                h1 b:nth-child(3) {opacity: 0; animation: write .3s linear 2.4s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 6.4s   normal forwards,
+                write .3s linear 9.4s   normal forwards;}
+                h1 b:nth-child(4) {opacity: 0; animation: write .3s linear 2.6s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 6.6s   normal forwards,
+                write .3s linear 9.6s   normal forwards;}
+                h1 b:nth-child(5) {opacity: 0; animation: write .3s linear 2.8s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 6.8s   normal forwards,
+                write .3s linear 9.8s   normal forwards;}
+                h1 b:nth-child(6) {opacity: 0; animation: write .3s linear 3s   normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 7s   normal forwards,
+                write .3s linear 10s   normal forwards;}
+                h1 b:nth-child(7) {opacity: 0; animation: write .3s linear 3.2s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 7.2s   normal forwards,
+                write .3s linear 10.2s   normal forwards;}
+                h1 b:nth-child(8) {opacity: 0; animation: write .3s linear 3.4s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 7.4s   normal forwards,
+                write .3s linear 10.4s   normal forwards;;}
+                h1 b:nth-child(9) {opacity: 0; animation: write .3s linear 3.6s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 7.6s   normal forwards,
+                write .3s linear 10.6s   normal forwards;}
+                h1 b:nth-child(10){opacity: 0; animation: write .3s linear 3.8s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 7.8s   normal forwards,
+                write .3s linear 10.8s   normal forwards;}
+                h1 b:nth-child(11){opacity: 0; animation: write .3s linear 4s   normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 8s   normal forwards,
+                write .3s linear 11s   normal forwards;}
+                h1 b:nth-child(12){opacity: 0; animation: write .3s linear 4.2s normal forwards,
+                invisble .3s linear 5s   normal forwards,
+                write .3s linear 8.2s   normal forwards,
+                write .3s linear 11.2s   normal forwards;}
+			</style>
+            <div class="svg">
+                <div class="container">
+                    <h1><b>R</b><b>I</b><b>C</b><b>K</b><b>B</b><b>a</b><b>R</b><b>R</b><b>e</b><b>t</b><b>t</b><b>o</b></h1>
+                    <p>Look my repository!</p>
+                    <span></span>
+                </div>
+            </div>
+		</div>
+	</foreignObject>
+</svg>
