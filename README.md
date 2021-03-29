@@ -4,7 +4,7 @@
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
 
 - 📚 I’m currently learning **C, C++**
-
+- ㊙️ The header isn't a gif. It's a hand made svg.
 - 💻 All of my projects are available at [Github](https://github.com/RickBarretto)
 
 
