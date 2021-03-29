@@ -1,4 +1,4 @@
-<img src="Readme-Assets/header.svg" width="100%" height="300px" alt="Click to see the source">
+<img src="Readme-Assets/header.svg" width="100%" height="300px" alt="Hi, I'm Rick!" style="transform: translateY(5rem)">
 
 <h2 align="center">A technologies's student. 👓 <br> 
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
@@ -10,7 +10,7 @@
 
 ## - 📮 Contact me:
 
-[![Protonmaill](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](pdant.mailme@protonmail.ch)
+[![Protonmaill](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pdant.mailme@protonmail.ch)
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](codepen) -->
