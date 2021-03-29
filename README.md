@@ -1,4 +1,4 @@
-<img src="Readme-Assets/header.gif" style="width:100%;" />
+<img src="Readme-Assets/header.svg" style="width:100%;" />
 
 <h2 align="center">A technologies's student. 👓 <br> 
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
