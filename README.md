@@ -1,4 +1,4 @@
-<img src="Readme-Assets/header.svg" width="100%" height="300px" alt="Hi, I'm Rick!" style="transform: translateY(5rem)">
+<img src="Readme-Assets/header.svg" width="100%" height="250px" alt="Hi, I'm Rick!">
 
 <h2 align="center">A technologies's student. 👓 <br> 
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
