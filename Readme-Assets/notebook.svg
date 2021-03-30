@@ -22,11 +22,15 @@
             <stop offset="100%" stop-color="black" stop-opacity=".4"/>
         </linearGradient>
     </defs>
-
+    <style>
+        #screen{
+            ;
+        }
+    </style>
     <g class="container" transform="translate(0 -100)">
 
-
         <rect width="170" height="400" fill="url(#bg)" transform="translate(230 0)" />
+        
         <g class="coffee" transform="translate(120 240)">
             <g class="cup">
                 <polygon points="2,0 38,0 35,60 5,60" fill="url(#cup-base)"/>
@@ -36,7 +40,7 @@
         </g>
         <g class="notebook" transform="translate(190 190)">
             <rect width="170" height="100" fill="#151e3f" transform="translate(-10 0)"/>
-            <rect width="160" height="90" x="5" y="5" transform="translate(-10 0)" fill="#344b7b"/>
+            <rect width="160" height="90" x="5" y="5" transform="translate(-10 0)" fill="blueviolet" />
             <path d="M -50,100  C -50,100 -50,110 -40,110 L 170,110 170,100 Z" fill="url(#not)" transform="translate(-10 0)" />
             <path d="M 90,100 C 90,100 90,110 100,110 L 170,110 170,100 Z" fill="#030027" transform="translate(-10 0)" />
             <g class="github" fill="#f2f3d9" transform=" translate(45 25) scale(3 3)">

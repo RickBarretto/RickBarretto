@@ -16,6 +16,10 @@
         "author":"Linus Torvalds"
     },
     {
+        "quote":"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.",
+        "author":"Donald E. Knuth"
+    },
+    {
         "quote":"Premature optimization is the root of all evil.",
         "author":"Donald Knuth"
     }
