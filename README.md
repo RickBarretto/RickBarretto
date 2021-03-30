@@ -14,11 +14,13 @@
 <h2 align="center">- 📮 Contact me:</h2>
 
 <a href="mailto:pdant.mailme@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmaill" align="center"></a>
+<a href="https://codepen.io/rickbarretto"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" align="center"></a>
+
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](codepen) -->
+ -->
 
-<br><br>
+<br><br><br>
 
 <h2 align="center">- 🌠 My Stats:</h2>
 
@@ -42,12 +44,14 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
 ---
 
 <p align="center" width="490px">
 <img alt="Quote" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/RickBarretto/blob/main/Quotes/quotes.json" align="center" width="490px" />
 
 ---
+
 <p align="center">
 <a href="Acknowledgments.md"><button align="center">Special Acknowledgments</button></a>
 
