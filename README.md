@@ -3,14 +3,13 @@
 <h2 align="center">A technologies's student. 👓 <br> 
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
 
-![Coding... >](Readme-Assets/notebook.svg)
+<img src="./Readme-Assets/notebook.svg" align="right" vspace=20 />
 
-- 📚 I’m currently learning **C, C++**
-- ㊙️ The header isn't a gif. It's a hand made svg.
-- 💻 All of my projects are available at [Github](https://github.com/RickBarretto)
-
-
-
+<ul align="center">
+<li>📚 I’m currently learning <b>C, C++</b></li>
+<li>㊙️ The header isn't a gif. It's a hand made svg.</li>
+<li>💻 All of my projects are available at <a href="https://github.com/RickBarretto">Github</a> </li>
+</ul>
 
 ## - 📮 Contact me:
 
