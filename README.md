@@ -3,9 +3,6 @@
 <h2 align="center">A technologies's student. 👓 <br> 
 🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
 
-<div>
-<img src="Readme-Assets/notebook.svg" width="400px" height="100%" alt="Coding..." align="rigth">
-
 ![Coding... >](Readme-Assets/notebook.svg)
 
 - 📚 I’m currently learning **C, C++**
