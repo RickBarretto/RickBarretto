@@ -11,6 +11,9 @@
 <li>💻 All of my projects are available at <a href="https://github.com/RickBarretto">Github</a> </li>
 </ul>
 
+<br>
+<br>
+
 <h2 align="center">- 📮 Contact me:</h2>
 
 <p align="center">
