@@ -1,12 +1,12 @@
 <img src="Readme-Assets/header.svg" width="100%" height="250px" alt="Hi, I'm Rick!">
 
 <h2 align="center">A technologies's student. 👓 <br> 
-🚀 Mainly: C++, C, Python and Web-Front-End (Html+Css). 🚀</h2>
+🚀 Mainly: Rust, Python and Web-Front-End (Html+Css). 🚀</h2>
 
 <img src="./Readme-Assets/notebook.svg" width="400px" align="right"/>
 
 <ul align="center">
-<li>📚 I’m currently learning <b>C, C++</b></li>
+<li>📚 I’m currently learning <b>Rust</b></li>
 <li>㊙️ The header isn't a gif. It's a hand made svg.</li>
 <li>💻 All of my projects are available at <a href="https://github.com/RickBarretto">Github</a> </li>
 </ul>
