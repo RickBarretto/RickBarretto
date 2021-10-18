@@ -17,14 +17,11 @@
 <h2 align="center">- 📮 Contact me:</h2>
 
 <p align="center">
-<a href="mailto:pdant.mailme@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmaill" ></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmaill" ></a>
 <br>
 <a href="https://codepen.io/rickbarretto"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 </p>
 
-
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
- -->
 
 <br><br><br>
 
