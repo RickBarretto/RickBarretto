@@ -1,25 +1,24 @@
 <img src="Readme-Assets/header.svg" width="100%" height="250px" alt="Hi, I'm Rick!">
 
-<h2 align="center">Just studying 👓🚀</h2>
-
-<div align="center">
-<img src="./Readme-Assets/notebook.svg" width="400px" align="center"/>
+<div align="right">
+  <h2 align="right">Just studying 👓🚀</h2>
+  <img src="./Readme-Assets/notebook.svg" width="400px" align="center"/>
 </div>
 
-<h2 align="center">🌠 My Stats:</h2>
-
-<p align="center">
-<img
-  width="490px"
-  src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
-  alt="rickbarretto" 
-/>
-<img 
-  width="490px"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rickbarretto&show_icons=true&theme=gotham&locale=en&layout=compact" 
-  alt="rickbarretto" 
+<div align="left">
+  <h2 align="left">🌠 My Stats:</h2>
+  <img
+    width="490px"
+    src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
+    alt="rickbarretto" 
   />
-</p>
+  <br>
+  <img 
+    width="490px"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rickbarretto&show_icons=true&theme=gotham&locale=en&layout=compact" 
+    alt="rickbarretto" 
+    />
+</div>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 
