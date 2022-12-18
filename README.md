@@ -1,12 +1,12 @@
 <img src="Readme-Assets/header.svg" width="100%" height="250px" alt="Hi, I'm Rick!">
 
-<div align="right">
-  <h2 align="right">Just studying 👓🚀</h2>
+<div align="center">
+  <h2 align="center">Just studying 👓🚀</h2>
   <img src="./Readme-Assets/notebook.svg" width="400px" align="center"/>
 </div>
 
 <div align="left">
-  <h2 align="left">🌠 My Stats:</h2>
+  <h2 align="center">🌠 My Stats:</h2>
   <img
     width="490px"
     src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
