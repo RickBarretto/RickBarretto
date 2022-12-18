@@ -1,27 +1,10 @@
 <img src="Readme-Assets/header.svg" width="100%" height="250px" alt="Hi, I'm Rick!">
 
-<h2 align="center">A technologies's student. 👓🚀</h2>
+<h2 align="center">Just studying 👓🚀</h2>
 
-<img src="./Readme-Assets/notebook.svg" width="400px" align="right"/>
-
-<ul align="center">
-<li>㊙️ The header isn't a gif. It's a hand made svg.</li>
-<li>💻 All of my projects are available at <a href="https://github.com/RickBarretto">Github</a> </li>
-</ul>
-
-<br>
-<br>
-
-<h2 align="center">- 📮 Contact me:</h2>
-
-<p align="center">
-<a href="mailto:ocont7ku7@relay.firefox.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmaill" ></a>
-<br>
-<a href="https://codepen.io/rickbarretto"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
-</p>
-
-
-<br><br><br>
+<div align="center">
+<img src="./Readme-Assets/notebook.svg" width="400px" align="center"/>
+</div>
 
 <h2 align="center">- 🌠 My Stats:</h2>
 
