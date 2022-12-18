@@ -5,7 +5,7 @@
   <img src="./Readme-Assets/notebook.svg" width="400px" align="center"/>
 </div>
 
-<div align="left">
+<div align="center">
   <h2 align="center">🌠 My Stats:</h2>
   <img
     width="490px"
