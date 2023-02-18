@@ -12,12 +12,6 @@
     src="https://github-readme-stats.vercel.app/api?username=rickbarretto&show_icons=true&theme=gotham&locale=en&count_private=true"
     alt="rickbarretto" 
   />
-  <br>
-  <img 
-    width="490px"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rickbarretto&show_icons=true&theme=gotham&locale=en&layout=compact" 
-    alt="rickbarretto" 
-    />
 </div>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
