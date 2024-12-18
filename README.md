@@ -16,11 +16,6 @@
 
 ---
 
-<p align="center" width="490px">
-<img alt="Quote" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&layout=churchill&animation=grow_out_in&quotesUrl=https://github.com/RickBarretto/RickBarretto/blob/main/Quotes/quotes.json" align="center" width="490px" />
-
----
-
 <p align="center">
 <a href="Acknowledgments.md"><button align="center">Special Acknowledgments</button></a>
 
